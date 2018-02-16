@@ -1,14 +1,13 @@
 # Summary
 
 * [关于 OpsMind](README.md)
-* [Agent 安装（Installing）](agent-an-zhuang-ff08-installing.md)
-* [服务器管理（Machine）](fu-wu-qi-guan-li-ff08-machine.md)
-* 服务监控（Service）
-* 监控指标（Metric）
-* 告警与通知（Alerting）
-* 监控大屏（Dashboard）
-* [成本分析（Cost-Analysis）](cheng-ben-fen-xi-ff08-cost-analysis.md)
-* 事件管理（Event）
-* 团队管理（Team）
-* Agent 安装（Installing）
+* [Agent 安装（Installing）](agent-installation.md)
+* [服务器管理（Machine）](machine-management/README.md)
+* [服务监控（Service）](service-monitor/README.md)
+* [监控指标（Metric）](metrics/README.md)
+* [告警与通知（Alerting）](alerting/README.md)
+* [监控大屏（Dashboard）](dashboard/README.md)
+* [成本分析（Cost-Analysis）](cost-analysis/README.md)
+* [事件管理（Event）](events/README.md)
+* [团队管理（Team）](tuan-dui-guan-li-ff08-team.md)
 
