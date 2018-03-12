@@ -8,5 +8,13 @@
 
 ![](/assets/new-host-label.png)
 
+服务器的标签均为 Key:Value 格式，以上图为例，选中一批服务器
+
+
+
+
+
+
+
 ![](/assets/new-host-label-2.png)
 
