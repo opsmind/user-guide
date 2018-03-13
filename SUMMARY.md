@@ -5,7 +5,7 @@
 * [服务器管理（Machine）](machine-management/README.md)
   * [使用标签管理](machine-management/shi-yong-biao-qian-guan-li.md)
   * [服务器自动标签](machine-management/fu-wu-qi-zi-dong-biao-qian.md)
-  * 查看服务器详情
+  * [查看服务器详情](machine-management/cha-kan-fu-wu-qi-xiang-qing.md)
   * [多服务器对比](machine-management/duo-fu-wu-qi-dui-bi.md)
   * Docker 与 Kubernetes
   * [高级配置](machine-management/gao-ji-pei-zhi.md)
