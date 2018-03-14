@@ -34,5 +34,4 @@
 * [团队管理（Team）](tuan-dui-guan-li-ff08-team.md)
   * 权限管理
   * 告警订阅
-* 快速上手（Quick-Start）
 
