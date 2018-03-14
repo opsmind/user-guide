@@ -1,6 +1,7 @@
 # Summary
 
 * [关于 OpsMind](README.md)
+* [快速上手（Quick-Start）](kuai-sushang-shou-ff08-quick-start.md)
 * [Agent 安装（Installing）](agent-installation.md)
 * [服务器管理（Machine）](machine-management/README.md)
   * [使用标签管理](machine-management/shi-yong-biao-qian-guan-li.md)
@@ -14,8 +15,8 @@
   * [业务指标 CSPG](service-monitor/ye-wu-zhi-biao-cspg.md)
   * [服务依赖](service-monitor/fu-wu-yi-lai.md)
   * 服务资源监控
-  * 数据库监控
-  * 服务与业务组
+  * [数据库监控](service-monitor/shu-ju-ku-jian-kong.md)
+  * [服务与业务组](service-monitor/fu-wu-yu-ye-wu-zu.md)
   * [高级配置](service-monitor/gao-ji-pei-zhi.md)
 * [监控指标（Metric）](metrics/README.md)
   * 系统指标项
@@ -33,4 +34,5 @@
 * [团队管理（Team）](tuan-dui-guan-li-ff08-team.md)
   * 权限管理
   * 告警订阅
+* 快速上手（Quick-Start）
 
