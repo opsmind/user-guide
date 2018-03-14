@@ -10,7 +10,7 @@
   * Docker 与 Kubernetes
   * [高级配置](machine-management/gao-ji-pei-zhi.md)
 * [服务监控（Service）](service-monitor/README.md)
-  * [服务自动发现](service-monitor/fu-wu-zi-dong-fa-xian.md)
+  * [服务详情](service-monitor/fu-wu-zi-dong-fa-xian.md)
   * [业务指标 CSPG](service-monitor/ye-wu-zhi-biao-cspg.md)
   * 服务依赖
   * 服务资源监控
