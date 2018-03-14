@@ -19,10 +19,14 @@
   * [服务与业务组](service-monitor/fu-wu-yu-ye-wu-zu.md)
   * [高级配置](service-monitor/gao-ji-pei-zhi.md)
 * [监控指标（Metric）](metrics/README.md)
-  * 系统指标项
-  * 新增指标项
-  * 实时查询指标项数据
-  * 高级功能
+  * [系统指标项](metrics/xi-tong-zhi-biao-xiang.md)
+  * [新增指标项](metrics/xin-zeng-zhi-biao-xiang.md)
+  * [实时查询指标项数据](metrics/shi-shi-cha-xun-zhi-biao-xiang-shu-ju.md)
+  * [高级功能](metrics/gao-ji-gong-neng.md)
+  * 自定义指标
+    * 脚本插件
+    * Agent API
+    * 探测任务
 * [告警与通知（Alerting）](alerting/README.md)
   * [告警策略与微调](alerting/gao-jing-ce-lve.md)
   * [告警的匹配规则](alerting/gao-jing-wei-diao.md)
