@@ -28,7 +28,7 @@ OpsMind Agent 将以 30 秒的间隔自动运行（不带参数运行）该目�
 一个合法的输出如下所示：
 
 ```
-process{} 800
+process_count{} 800
 cpu_usage{cpu="cpu0", mode="idle"} 12345
 cpu_usage{cpu="cpu1", mode="idle"} 12345
 mem_usage{mode="free"} 400000
