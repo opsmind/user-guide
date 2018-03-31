@@ -41,7 +41,7 @@
 
 一个相对完整的使用案例如下：
 
-![](/assets/alert-policy-adjust-trigger.png)
+![](/assets/policy-adjust-trigger.png)
 
 
 #### 最佳实践
