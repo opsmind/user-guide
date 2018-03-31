@@ -25,14 +25,13 @@
   * [高级功能](metrics/gao-ji-gong-neng.md)
   * 自定义指标
     * [脚本插件](metrics/jiao-ben-cha-jian.md)
-    * Agent API
-    * 探针
+    * [Agent API](metrics/agent-api.md)
+    * [探针](metrics/tan-zhen.md)
 * [告警与通知（Alerting）](alerting/README.md)
-  * [告警策略与微调](alerting/gao-jing-ce-lve.md)
-  * [告警的匹配规则](alerting/gao-jing-wei-diao.md)
+  * [告警策略](alerting/gao-jing-ce-lve.md)
+  * [告警透视（X-Alert）](alerting/gao-jing-tou-shi-ff08-x-alert.md)
   * [告警通知渠道](alerting/gao-jing-tong-zhi-qu-dao.md)
   * [告警订阅与屏蔽](alerting/gao-jing-ding-yue-yu-ping-bi.md)
-  * [告警透视（X-Alert）](alerting/gao-jing-tou-shi-ff08-x-alert.md)
 * [监控大屏（Dashboard）](dashboard/README.md)
 * [成本分析（Cost-Analysis）](cost-analysis/README.md)
 * [事件管理（Event）](events/README.md)
