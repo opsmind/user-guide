@@ -20,7 +20,7 @@
   * [新增指标项](metrics/xin-zeng-zhi-biao-xiang.md)
   * [实时查询指标项数据](metrics/shi-shi-cha-xun-zhi-biao-xiang-shu-ju.md)
   * [高级功能](metrics/gao-ji-gong-neng.md)
-  * 自定义指标
+  * [自定义指标](metrics/zi-ding-yi-zhi-biao.md)
     * [脚本插件](metrics/jiao-ben-cha-jian.md)
     * [Agent API](metrics/agent-api.md)
     * [探针](metrics/tan-zhen.md)
