@@ -7,14 +7,11 @@
   * [使用标签管理](machine-management/shi-yong-biao-qian-guan-li.md)
   * [服务器自动标签](machine-management/fu-wu-qi-zi-dong-biao-qian.md)
   * [查看服务器详情](machine-management/cha-kan-fu-wu-qi-xiang-qing.md)
-  * [多服务器对比](machine-management/duo-fu-wu-qi-dui-bi.md)
-  * Docker 与 Kubernetes
-  * [高级配置](machine-management/gao-ji-pei-zhi.md)
 * [服务监控（Service）](service-monitor/README.md)
   * [服务详情](service-monitor/fu-wu-zi-dong-fa-xian.md)
   * [业务指标 CSPG](service-monitor/ye-wu-zhi-biao-cspg.md)
   * [服务依赖](service-monitor/fu-wu-yi-lai.md)
-  * 服务资源监控
+  * [服务资源监控](service-monitor/fu-wu-zi-yuan-jian-kong.md)
   * [数据库监控](service-monitor/shu-ju-ku-jian-kong.md)
   * [服务与业务组](service-monitor/fu-wu-yu-ye-wu-zu.md)
   * [高级配置](service-monitor/gao-ji-pei-zhi.md)
