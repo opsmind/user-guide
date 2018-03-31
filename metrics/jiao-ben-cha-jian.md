@@ -9,7 +9,7 @@ OpsMind Agent 将以 30 秒的间隔自动运行（不带参数运行）该目�
 
 #### 脚本的输出格式
 
-脚本的输出格式需一下格式：
+脚本的输出格式需符合以下格式：
 
 ```
 <metric_name>{<label_name>="<label_value>", ...} <metric_value>
